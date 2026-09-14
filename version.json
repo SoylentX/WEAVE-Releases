@@ -1,6 +1,7 @@
 {
-  "version": "0.1.35",
+  "version": "0.1.36",
   "download_url": "https://github.com/SoylentX/WEAVE-Releases/releases/latest/download/weave.exe",
   "exe_name": "weave.exe",
-  "mandatory": false
+  "mandatory": false,
+  "sha256": "PUT_THE_SHA256_HASH_OF_THE_EXACT_WEAVE.EXE_HERE"
 }
