@@ -1,7 +1,7 @@
 {
-  "version": "2.0.6",
-  "download_url": "https://github.com/SoylentX/WEAVE-Releases/releases/latest/download/weave.exe",
-  "exe_name": "weave.exe",
+  "version": "2.0.10",
+  "download_url": "https://github.com/SoylentX/WEAVE-Releases/releases/download/v2.0.10/W34v3.exe",
+  "exe_name": "W34v3.exe",
   "mandatory": true,
-  "sha256": "c48878e64bca224364e8bce102992e5deabc35c0d24de30c526509b7d0fdc833"
+  "sha256": "f3b52b083c28775973bf5f2ff4c1373ed3d328fe28739f80fb0a6140b886abca"
 }
